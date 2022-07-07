@@ -1,0 +1,28 @@
+.header-container {
+    background-color: #1C202B;
+    color: white;
+    display: flex;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.cleaningcrew {
+    width: 700px;
+}
+
+.header-text {
+    width: 50%;
+}
+
+.header-h1 {
+    font-size: 3rem;
+
+}
+
+.header-p {
+    
+}
+
+.header-button {
+    
+}
