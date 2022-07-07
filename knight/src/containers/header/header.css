@@ -2,27 +2,47 @@
     background-color: #1C202B;
     color: white;
     display: flex;
+    justify-content: center;
+}
+
+.header-content {
+    display: flex;
     padding-top: 3%;
     padding-bottom: 3%;
+    max-width: 1400px;
 }
 
 .cleaningcrew {
-    width: 700px;
+    width: 600px;
+    margin-left: 5%;
 }
 
 .header-text {
     width: 50%;
+    margin-right: 5%;
 }
 
 .header-h1 {
-    font-size: 3rem;
+    font-size: 3.5rem;
 
 }
 
 .header-p {
-    
+    font-size: 1.5rem;
+    margin-top: 5%;
 }
 
 .header-button {
-    
+    margin-top: 5%;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 50px;
+    border-width: 7px;
+    border-color: #EA3E3A;
+    color: #E36626;
+    font-family: var(--main-font);
+    font-weight: 600;
+    font-size: 1.2rem;
 }

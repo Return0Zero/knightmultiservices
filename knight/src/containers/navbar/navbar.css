@@ -18,12 +18,14 @@
 }
 
 .link-services, .link-contact {
-    color: black;
+   
+    color: white;
     text-decoration: none;
 }
 
 .link-services:visited, .link-contact:visited {
-    color: black;
+    
+    color: white;
     text-decoration: none;
 }
 
