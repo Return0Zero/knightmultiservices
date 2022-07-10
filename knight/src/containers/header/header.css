@@ -6,15 +6,17 @@
 }
 
 .header-content {
+    position: relative;
     display: flex;
-    padding-top: 3%;
-    padding-bottom: 3%;
+    padding-top: 8%;
+    padding-bottom: 6%;
     max-width: 1400px;
+    z-index: 9;
 }
 
 .cleaningcrew {
     width: 600px;
-    margin-left: 5%;
+    margin-left: 8%;
 }
 
 .header-text {
@@ -46,3 +48,52 @@
     font-weight: 600;
     font-size: 1.2rem;
 }
+
+.header-button:active {
+    transform: scale(0.9);
+}
+
+.orange-top-design {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+}
+
+.star {
+    width: 50px;
+    position: absolute;
+}
+
+.thick-star1 {
+
+}
+
+.thick-star2 {
+    
+}
+
+.thick-star3 {
+    
+}
+
+.thick-star4 {
+    
+}
+
+.thin-star1 {
+    
+}
+
+.thin-star2 {
+    
+}
+
+.thin-star3 {
+    
+}
+
+.thin-star4 {
+    
+}
+
