@@ -1,5 +1,5 @@
 import './navbar.css';
-import LogoHorizontal from '../../images/logo-white-horizontal.png'
+import LogoHorizontal from '../../images/horizontal-white-logo.png'
 import {Link} from 'react-router-dom';
 
 function Navbar() {

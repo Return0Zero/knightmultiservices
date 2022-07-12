@@ -9,19 +9,20 @@
     position: relative;
     display: flex;
     padding-top: 8%;
-    padding-bottom: 6%;
     max-width: 1400px;
     z-index: 9;
+    justify-content: space-evenly;
+    padding-bottom: 8%;
 }
 
 .cleaningcrew {
-    width: 600px;
-    margin-left: 8%;
+    width: 35%;
+    position: relative;
+    z-index: 9;
 }
 
 .header-text {
     width: 50%;
-    margin-right: 5%;
 }
 
 .header-h1 {
@@ -58,42 +59,52 @@
     right: 0;
     bottom: 0;
     z-index: 1;
+    width: 900px;
 }
 
 .star {
     width: 50px;
     position: absolute;
+    z-index: 9;
 }
 
 .thick-star1 {
-
+    left: 0;
+    top: 10%;
 }
 
 .thick-star2 {
-    
+    right: 5%;
+    top: 5%
 }
 
 .thick-star3 {
-    
+    top: 35%;
+    right: 43%;
 }
 
 .thick-star4 {
-    
+    bottom: 5%;
+    right: 22%;
 }
 
 .thin-star1 {
-    
+    top: 1%;
+    left: 35%
 }
 
 .thin-star2 {
-    
+    top: 11%;
+    right: 32%
 }
 
 .thin-star3 {
-    
+    right: 1%;
+    top: 45%;
 }
 
 .thin-star4 {
-    
+    left: 30%;
+    bottom: 15%;
 }
 
